@@ -263,7 +263,7 @@ java njuics.java2018.HelloWorld
 2. 面向对象I （`Introdction to Objects`, `Everything is an Object`, `Initialization & Cleanup`)
 3. 面向对象II (`Access Control`, `Resuing Classes`)
 4. 面向对象III (`Interfaces`, `Polymorphism`, `Inner Classes`)
-5. Desigin by Contract & UML 🚺
+5. 面向对象设计原则（`Object-oriented Design Principle`） 🚺
 
 
 ---
@@ -272,7 +272,7 @@ java njuics.java2018.HelloWorld
 
 6. 异常处理 (`Error Handling with Exceptions`) 🚺
 7. 类加载和自省
-8. 工具 (`Holding your objects`, `Strings`, `Arrays`) 🚺
+8. 集合框架 (`Holding your objects`, `Strings`, `Arrays`) 🚺
 9. 类型 (`Type Information`, `Generic`, `Container in Depth`)
 10. 标注和测试（`Annotations`/Testing）
 11. 工程工具（Maven/Gradle/CI）
